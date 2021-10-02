@@ -20,6 +20,11 @@ Blue : My code
 Blue : Stable Baseline3 DDPG-based  
 Gray : My code
 
+## Walker2d-V2
+![Walker2d-V2](https://user-images.githubusercontent.com/38174284/135719936-9e2ede67-6332-4733-a98b-6d44c69a9c24.jpg)
+Gray : Stable Baseline3 DDPG-based
+Blue : My code
+
 ## References
 [0] : https://arxiv.org/abs/1509.02971  
 [1] : https://github.com/DLR-RM/stable-baselines3  
